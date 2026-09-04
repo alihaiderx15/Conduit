@@ -69,7 +69,7 @@ Conduit/
 
 ## Setup and Running (Windows)
 
-Open the Folder in VS code or CMD.Conduit needs Python 3.11–3.13. Run setup once, then launch with `main.py`:
+Open the Folder in VS code or CMD. Conduit needs Python 3.11–3.13. Run setup once, then launch with `main.py`:
 
 ```cmd
 py setup.py
